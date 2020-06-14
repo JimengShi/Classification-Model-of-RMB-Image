@@ -21,7 +21,7 @@ Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is 
 ## Model performance
 The performance of this classification model is good, accuracy is about 100%, loss value is 0.0021 with 10 epoches training.
 
-- Demo:
+- Test Demo:
 <div align="center">
 <img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/100_1.png" height="300px" alt="100_1" ><img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/100_2.png" height="300px" alt="100_2" ><img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/100_3.png" height="300px" alt="100_3" ><img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/100_4.png" height="300px" alt="100_4" >    
 </div>
