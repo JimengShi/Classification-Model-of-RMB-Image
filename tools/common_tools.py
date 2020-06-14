@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 # @file name  : common_tools.py
-# @author     : tingsongyu
-# @date       : 2019-09-16 10:08:00
-# @brief      : 通用函数
+# @author     : Jimeng Shi
+# @date       : 2020-01-18 23:05:00
+# @brief      : common function
 """
 
 import numpy as np
