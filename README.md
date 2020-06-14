@@ -36,7 +36,7 @@ The performance of this classification model is good, accuracy is about 100%, lo
 - Window 10
 - Python 3.7.4
 - Pycharm 2020.1.2
-- Pytorch: 1.5.0 (Both CPU and GPU are fine to run this project)
+- Pytorch: 1.5.0 (Both CPU and GPU would be fine to run this project)
 
 **Run steps:**
 - set good environment
