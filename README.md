@@ -28,7 +28,7 @@ The performance of this classification model is good, accuracy is about 100%, lo
 
 - The change of accuracy:
 <div align="center">
-<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/accuracy.png" width="300px" alt="Accuracy" >
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/accuracy.png" width="500px" alt="Accuracy" >
 </div>
 
 ## How to run
