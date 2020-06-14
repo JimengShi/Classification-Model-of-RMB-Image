@@ -19,11 +19,11 @@ Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is 
 </div>
 
 ## Model performance
-The performance of this classification model is good, accuracy is about 100%, loss value is 0.0012 with 10 epoches training.
+The performance of this classification model is good, accuracy is about 100%, loss value is 0.0021 with 10 epoches training.
 
 - The change loss value:
 <div align="center">
-<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/loss%20function.png" height="500px" alt="Loss" >
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/loss%20function.png" height="400px" alt="Loss" >
 </div>
 
 - The change of accuracy:
