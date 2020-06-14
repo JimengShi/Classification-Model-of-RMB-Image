@@ -3,13 +3,20 @@ Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is 
 
 ## Six steps for machine learning projects
 - Step 1: Data (include data split, data analysis, data augmentation, data load)
-- Step 2: Model (lenet is used in this project, check out `Model folder`)
+- Step 2: Model (leNet is used in this project, check out `Model folder`)
+
+<div align="center">
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/model.png" height="300px" alt="Model" >
+</div>
+
 - Step 3: Loss function (cross entropy is used in this project)
 - Step 4: Optimizer (Stochastic Gradient Descent is used in this project)
 - Step 5: Iteratively training
 - Step 6: Model Estimation
 
-
+<div align="center">
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/Six%20steps.png" height="300px" alt="Steps" >
+</div>
 
 ## Model performance
 The performance of this classification model is good, accuracy is about 100%, loss value is 0.0012 with 10 epoches training.
