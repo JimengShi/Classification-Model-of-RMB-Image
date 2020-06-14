@@ -1,5 +1,5 @@
 # Classification-Model-of-RMB
-Based on 100 1￥ and 100 100￥, a classification model is built to achieve binary classification task. A couple of real life data have been tested with a good accuracy.
+Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is built to achieve binary classification task. A couple of real life data have been tested with a good accuracy.
 
 ## Six steps for machine learning projects
 - Step 1: Data (include data split, data analysis, data augmentation, data load)
