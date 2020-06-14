@@ -6,7 +6,7 @@ Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is 
 - Step 2: Model (leNet is used in this project, check out `Model folder`)
 
 <div align="center">
-<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/model.png" height="150px" alt="Model" >
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/model.png" height="200px" alt="Model" >
 </div>
 
 - Step 3: Loss function (cross entropy is used in this project)
@@ -15,7 +15,7 @@ Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is 
 - Step 6: Model Estimation
 
 <div align="center">
-<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/Six%20steps.png" height="600px" alt="Steps" >
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/Six%20steps.png" height="500px" alt="Steps" >
 </div>
 
 ## Model performance
