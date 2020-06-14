@@ -23,12 +23,12 @@ The performance of this classification model is good, accuracy is about 100%, lo
 
 - The change loss value:
 <div align="center">
-<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/loss%20function.png" height="500px" alt="Loss" >
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/loss%20function.png.png" height="500px" alt="Loss" >
 </div>
 
 - The change of accuracy:
 <div align="center">
-<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/accuracy.png" width="500px" alt="Accuracy" >
+<img src="https://github.com/JimengShi/Classification-Model-of-RMB/blob/master/images/accuracy.png" width="900px" alt="Accuracy" >
 </div>
 
 ## How to run
