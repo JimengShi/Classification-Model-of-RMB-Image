@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 # @file name  : lenet.py
-# @author     : yts3221@126.com
-# @date       : 2019-08-21 10:08:00
-# @brief      : lenet模型定义
+# @author     : Jimeng Shi
+# @date       : 2020-01-18 23:05:00
+# @brief      : define lenet
 """
 import torch.nn as nn
 import torch.nn.functional as F
@@ -67,10 +67,4 @@ class LeNet2(nn.Module):
         x = x.view(x.size()[0], -1)
         x = self.classifier(x)
         return x
-
-
-
-
-
-
 
