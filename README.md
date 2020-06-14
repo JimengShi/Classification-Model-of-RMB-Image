@@ -8,12 +8,11 @@ Based on 100 pieces of 1￥ and 100 pieces of 100￥, a classification model is 
 - Step 4: Optimizer (Stochastic Gradient Descent is used in this project)
 - Step 5: Iteratively training
 - Step 6: Model Estimation
-<task flow>
+
+
 
 ## Model performance
 The performance of this classification model is good, accuracy is about 100%, loss value is 0.0012 with 10 epoches training.
-<screenshot>
-<outputs>
 
 ## How to run
 **Environment:**
